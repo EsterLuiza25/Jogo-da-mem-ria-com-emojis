@@ -14,6 +14,6 @@ Sua missão vai ser reproduzir passo passo o projeto visto nessa aula, ao final.
 #
 Foi criado um jogo de memória usando emojis do teclado windonws com uma base em HTML, a estilização em CSS e Interatividade com JavaScript.
 
-PS: repertório original [aqui] (https://github.com/digitalinnovationone/js-emoji-memory-game)
+PS: repertório original [aqui](https://github.com/digitalinnovationone/js-emoji-memory-game)
 
 
